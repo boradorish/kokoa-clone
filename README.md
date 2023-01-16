@@ -1,3 +1,3 @@
-#Koka Clone 2022
+# Koka Clone 2022
 
-Css got so much better!
+HTML & Css got so much better!
